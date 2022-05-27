@@ -7,6 +7,9 @@ npm init
 
 npm install discord.js@12.5.3 (La versión más actual no me funcinó correctamente)
 
+
+Lista de comandos:
+
 !add-turn (Los alumnos añaden su turno)
 
 !drop-my-turn (Los alumnos borran su turno)
